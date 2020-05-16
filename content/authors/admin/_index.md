@@ -42,9 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:me@matthewemery.ca
-- icon: twitter
-  icon_pack: fab
-  link: //twitter.com/lstmemery
 - icon: google-scholar
   icon_pack: ai
   link: //scholar.google.ca/citations?user=wIhx9z4AAAAJ&hl=en
@@ -58,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "me@matthewemery.ca"
+email: "matthew.emery44@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
