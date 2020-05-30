@@ -21,11 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Julia Scientific Programming"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/records/SP2ATH7JW7BW"
+  date_start = "2019-12-18"
   date_end = ""
   description = ""
+
 
 +++
